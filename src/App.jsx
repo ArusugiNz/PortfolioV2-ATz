@@ -10,8 +10,8 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/src/portfolio" element={<Portfolio />} />
-        <Route path="/src/about" element={<About />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/about" element={<About />} />
       </Routes>
       <footer class="footer">
         <p>&copy; ArusugiNz 2025 Mbak Tsumiki</p>
